@@ -26,7 +26,7 @@ public class Main {
 
         Zoo zoo = new Zoo(animals);
 
-        System.out.println("Total food requirement for the Zoo: " + zoo.totalFoodRequirement() + " grams");
+        System.out.println("Total food requirement: " + zoo.totalFoodRequirement() + " grams");
 
     }
 }
